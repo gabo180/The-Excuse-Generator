@@ -11,7 +11,7 @@ window.onload = () => {
   });
 };
 
-let excuseGenerator = () => {
+const excuseGenerator = () => {
   let who = ["The dog", "My grandma", "His turtle", "My bird"];
   let action = ["ate", "took", "crushed", "broke"];
   let what = ["my homework", "the keys", "the car", "my computer"];
